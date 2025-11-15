@@ -1,13 +1,13 @@
 # Rust Lab
 
-This repository is a collection of Rust projects created for learning and experimentation.
+This repository is a collection of Rust projects created for learning and experimentation. The source for my learning journey is from [The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html).
 
 ## Projects
 
 This repository contains the following projects:
 
--   `getting-started`: A simple Rust program to get started with the language.
--   `hello-world`: A classic "Hello, World!" program in Rust.
+- `getting-started`: A simple Rust program to get started with the language.
+- `hello-world`: A classic "Hello, World!" program in Rust.
 
 ## Running the Projects
 
